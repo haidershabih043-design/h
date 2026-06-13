@@ -1,0 +1,34 @@
+fDOCTYPE html>
+<html lang="en" >
+	<Head>	
+<meta charset="UTF-8" />
+<TITLE>KIDSCare &#8212;Health Guide</title>
+</head>
+<body>
+
+	<Header>
+		<h1>&#10084; kidscare &#8212; your Health Guide</h1>
+		<nav>
+		<ahref="#health">Stay Health</a>
+		<a =href="#tips">Quick Tips</a>
+
+		<a href="#media">Watch &amp: Learn</a>
+		</nav>
+		<</Header>
+             	
+
+		<main>
+
+		
+		<section id="health">
+		
+		
+		<artical>		
+		<h2>&#128170;Why Your Body Needs Exercise</h2>
+		<p>Your body is like a auper &#8212; the more you use it, the the strong it getsd ! kids who
+	move for <strong>60 minutes every day</strong> arehappier, sleep better, anddo better at school.</p>
+		<p>DANCING, SWIMMING, Football, yoga &#8212; anthing that gets your heart beating faster
+	
+	counts. Keep moving and have fun!</p>
+
+					
